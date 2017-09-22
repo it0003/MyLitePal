@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyLitePal.iml" filepath="$PROJECT_DIR$/MyLitePal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mypermission/mypermission.iml" filepath="$PROJECT_DIR$/mypermission/mypermission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myui/myui.iml" filepath="$PROJECT_DIR$/myui/myui.iml" />
+    </modules>
+  </component>
+</project>
